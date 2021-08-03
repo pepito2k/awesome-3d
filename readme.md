@@ -1,17 +1,24 @@
+<div>
+  <p align="center">
+    <a href="https://awesome-ruby.com"><img src="./giphy.gif"></a>
+  </p>
+  <hr>
+</div>
+
 # Awesome 3D Print Stuff [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome 3D printing resources
 
-
 ## Contents
 
-- [Awesome 3D Print Stuff ![Awesome](https://awesome.re)](#awesome-3d-print-stuff-)
-  - [Contents](#contents)
   - [Slicers](#slicers)
     - [FDM Slicers](#fdm-slicers)
     - [SLA Slicers](#sla-slicers)
   - [Design Tools](#design-tools)
   - [Model Repositories](#model-repositories)
+  - [Youtube Channels](#youtube-channels)
+    - [In Spanish](#in-spanish)
+    - [In English](#in-english)
   - [Contribute](#contribute)
 
 
