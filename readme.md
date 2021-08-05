@@ -28,7 +28,7 @@ Software to "translate" your 3D models to files that are readable by your 3D pri
 
 ### FDM Slicers
 
-- [Ultimaker Cura](https://ultimaker.com/en/products/cura-software)
+- [Ultimaker Cura](https://ultimaker.com/software/ultimaker-cura)
 - [PrusaSlicer](https://www.prusa3d.com/prusaslicer/)
 
 ### SLA Slicers
