@@ -19,6 +19,7 @@
   - [Youtube Channels](#youtube-channels)
     - [In Spanish](#in-spanish)
     - [In English](#in-english)
+  - [Stores](#stores-in-uy)
   - [Contribute](#contribute)
 
 
@@ -51,11 +52,21 @@ Software to "translate" your 3D models to files that are readable by your 3D pri
 
 ### In Spanish
 - [Control 3D](https://www.youtube.com/channel/UC_i4m-pDROARtY3cmgrJhDA)
+- [Día de la Toalla](https://www.youtube.com/channel/UCN5BIlDWWsBqv71kukTi2IQ)
 
 ### In English
 - [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ)
 - [BV3D Bryan Vines](https://www.youtube.com/channel/UCeb9rinkpNb9VtPyx2fQ_qQ)
 - [Maker's Muse](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg)
+
+## Stores in UY
+
+- [3D Uruguay](https://3duruguay.com)
+- [Electronica UY](https://www.electronica.uy)
+- [Fabrix 3D](https://www.fabrix3d.com)
+- [Macrotec](https://www.macrotec.com.uy)
+- [Robotec](https://www.robotec.com.uy)
+- [Vacodir](https://www.vacodir.com.uy)
 
 ## Contribute
 
