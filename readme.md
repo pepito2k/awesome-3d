@@ -65,6 +65,7 @@ Software to "translate" your 3D models to files that are readable by your 3D pri
 - [Electronica UY](https://www.electronica.uy)
 - [Fabrix 3D](https://www.fabrix3d.com)
 - [Macrotec](https://www.macrotec.com.uy)
+- [Pinar 3D](https://pinar3d.com)
 - [Robotec](https://www.robotec.com.uy)
 - [Vacodir](https://www.vacodir.com.uy)
 
