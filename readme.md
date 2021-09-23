@@ -58,6 +58,7 @@ Software to "translate" your 3D models to files that are readable by your 3D pri
 - [3D Printing Nerd](https://www.youtube.com/channel/UC_7aK9PpYTqt08ERh1MewlQ)
 - [BV3D Bryan Vines](https://www.youtube.com/channel/UCeb9rinkpNb9VtPyx2fQ_qQ)
 - [Maker's Muse](https://www.youtube.com/channel/UCxQbYGpbdrh-b2ND-AfIybg)
+- [Technivorous](https://www.youtube.com/channel/UCuMbDfVJqY4XnWbTUmH3AmQ)
 
 ## Stores in UY
 
